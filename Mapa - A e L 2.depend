@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528245779 source:c:\users\usuario\documents\projetos c\mapa - a e l 2\mapa - a e l 2\mapa - a e l 2\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
