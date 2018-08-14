@@ -1,4 +1,4 @@
-# Programa feito em Linguagem C
+# Programa para cadastro de aluno na academia
 
 Algoritmo desenvolvido para trabalho da faculdade no curso Engenharia de Software.
 
